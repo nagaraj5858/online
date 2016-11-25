@@ -146,7 +146,7 @@
                     <span> Description:</span><br>
                     
                   		Gmail Account<br>
-                  		Latest Quiz
+                  		Latest fit
                     </p>
                 </div>
                 <br>
